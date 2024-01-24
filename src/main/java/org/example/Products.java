@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.stream.Stream;
 
 //В строке 10 выполняется принцип Open Closed, Interface Segregation
-//В строке с 12 по 46 выполняются принцип Single Responsibility
+//В строке с 16 по 45 выполняются принцип Single Responsibility
 
 public class Products implements ProductsAble, ProductsFilter {
 

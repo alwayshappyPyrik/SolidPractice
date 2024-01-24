@@ -3,7 +3,7 @@ package org.example;
 import java.util.Map;
 
 //В строке 8 выполняется принцип Open Closed
-//В строке с 10 до 24 выполняется принцип Single Responsibility
+//В строке с 10 до 23 выполняется принцип Single Responsibility
 
 public class SimpleRecommendationSystem implements SimpleRecommendationSystemAble {
     @Override

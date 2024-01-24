@@ -3,7 +3,7 @@ package org.example;
 import java.util.Scanner;
 
 // Строки с 11 по 16 говорят нам о принципе Dependency Inversion
-// Строки с 18 по 63 говорят нам о принципе Single-responsibility
+// Строки с 18 по 61 говорят нам о принципе Single-responsibility
 
 public class Main {
     public static void main(String[] args) {

@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 //В строке 9 выполняется принцип Open Closed
-//В строке с 14 по 36 Single Responsibility
+//В строке с 14 по 35 Single Responsibility
 
 public class Order implements OrderAble {
 

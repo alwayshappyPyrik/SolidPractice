@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 //В строке 10 выполняется принцип Open Closed
-//в строке 16 с 43 выполняется принцип Single Responsibility
+//в строке 16 с 42 выполняется принцип Single Responsibility
 
 public class Rating implements RatingAble {
 
